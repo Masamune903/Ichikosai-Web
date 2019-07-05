@@ -1,2 +1,2 @@
-# Ichikosai-Web
-The source codes of Ichikosai (school festival). 
+# 一高祭ウェブサイト
+一高祭（茨城県立土浦第一高等学校）のウェブサイトのソースコードです。
